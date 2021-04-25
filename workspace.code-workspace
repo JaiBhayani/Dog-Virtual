@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "images"
+		},
+		{
+			"path": "..\\..\\Virtual-Pet--1-master (2)\\Virtual-Pet--1-master\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "images"
+	}
+}
